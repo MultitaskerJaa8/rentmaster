@@ -1,9 +1,6 @@
 node_modules
 client/node_modules
-.env
-.env.local
-*.log
-.vscode
-.idea
-README.md
-seed.js
+client/src
+.git
+*.md
+nodemon.json
